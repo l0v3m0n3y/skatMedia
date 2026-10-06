@@ -29,7 +29,7 @@ public enum HTTPMethod: String {
     case patch = "PATCH"
 }
 
-public class PearOsSite {
+public class skatNews {
 
     private let api = "https://api.skat.media"
 
